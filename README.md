@@ -4,7 +4,8 @@
 			mavenCentral()
 			maven { url 'https://www.jitpack.io' }
 		}
-	} ``
+	} 
+ ``
 
 ``
 dependencies {
